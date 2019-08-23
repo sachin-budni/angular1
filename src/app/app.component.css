@@ -1,0 +1,24 @@
+.header{
+    width: 100%;
+    height: 60px;
+    background-color:rgb(74, 82, 77); 
+    display: flex;
+}
+.header-name{
+    margin: 10px 25px;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.extra-space{
+    flex: 1 1 auto;
+}
+button{
+    margin: 10px;
+    border: none;
+    width: 80px;
+    background-color: transparent;
+    color: white;
+    font-size: 20px;
+    font-family: sans-serif;    
+}
